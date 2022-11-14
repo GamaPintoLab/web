@@ -1,37 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Margarida Gama-Carvalho
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Tenured Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Faculty of Sciences of the University of Lisbon
+    url: 'https://ciencias.ulisboa.pt/en/'
+  - name: BioISI - Biosystems and Integrative Sciences Institute
+    url: 'https://bioisi.pt/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
+  - microRNA biogenesis and regulatory processes
   - Computational Linguistics
   - Information Retrieval
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Postdoctorate
+      institution: Dana Farber Cancer Institute/Harvard Medical School
+      year: 1994
+    - course: PhD in Biomedical Sciences
+      institution: Lisbon School of Medicine, University of Lisbon
+      year: 2003
+    - course: Provas de Aptidão Pedagógica e Capacidade Científica
+      institution: Lisbon School of Medicine, University of Lisbon
+      year: 2000
+    - course: BSc in Biology
+      institution: Faculty of Sciences, University of Lisbon
+      year: 1994
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:mhcarvalho@fc.ul.pt'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -65,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

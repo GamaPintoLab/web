@@ -1,0 +1,13 @@
+{
+  "actions" : {
+    "run" : {
+      "postActions" : [
+        {
+          "script" : "hugo server --disableFastRender",
+          "shell" : "\/bin\/zsh",
+          "type" : "runScript"
+        }
+      ]
+    }
+  }
+}
