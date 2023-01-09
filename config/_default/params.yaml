@@ -37,7 +37,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} RNA Systems Biology Lab.'
+    notice: |
+      © {year} RNA Systems Biology Lab. <br>
+       Hosted at the [Faculty of Sciences of the University of Lisbon](https://ciencias.ulisboa.pt/en). [Privacy Policy](https://ciencias.ulisboa.pt/en/privacy-policy-faculty-of-sciences).
 
 # Localization
 

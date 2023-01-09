@@ -6,7 +6,7 @@ title: Francisco Pinto
 superuser: false
 
 # Role/position
-role: Assitant Professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -16,7 +16,7 @@ organizations:
     url: 'https://bioisi.pt'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests focus on networks of biological molecules that regulate cellular processes.
 
 interests:
   - Computational Biology

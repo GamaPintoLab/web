@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: RNA Systems Biology # Website name
-baseURL: 'https://rna.rd.ciencias.ulisboa.pt/' # Website URL
+baseURL: 'https://rnasysbio.rd.ciencias.ulisboa.pt/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -35,7 +35,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: '/author/:slug/'
+  authors: '/researcher/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'

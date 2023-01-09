@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: Meet the Team
-subtitle:
+subtitle: We're proud to host a multidisciplinary team of researchers eager to make discoveries.
 
 content:
   # Choose which groups/teams of users to display.
@@ -19,13 +19,14 @@ content:
     - Principal Investigators
     - Faculty
     - Postdocs
-    - PhD Students
+    - Doctoral Candidates
     - MSc Students
     - Visiting Scholars
     - Undergraduate Students
     - Research Fellows
     - Technicians
     - External PhD Students
+    - Collaborators
     - Alumni
 design:
   show_interests: false

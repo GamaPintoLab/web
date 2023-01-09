@@ -20,4 +20,11 @@ design:
 
 <br>
 
-The **RNA Systems Biology Lab** at [BioISI](https://bioisi.pt/)/[Ciências ULisboa](https://ciencias.ulisboa.pt/)
+We're a cutting-edge RNA biology research lab at the University of Lisbon.
+We're glad to have you with us!
+
+<sub><sup>The RNA Systems Biology Lab is a research unit of [BioISI - Biosystems and Integrative Sciences Institute](https://bioisi.pt) at the [Faculty of Sciences](https://ciencias.ulisboa.pt/en) of the [University of Lisbon](https://ulisboa.pt/en).</sup></sub>
+
+[{{< icon name="github" pack="fab" >}}](https://github.com/GamaPintoLab)
+[{{< icon name="instagram" pack="fab" >}}](https://instagram.com/rnasysbiolab)
+[{{< icon name="facebook" pack="fab" >}}](https://www.facebook.com/RNASysBioLab)

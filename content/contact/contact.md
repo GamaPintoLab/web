@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: Get in touch
 subtitle:
 
 content:
@@ -28,6 +28,11 @@ content:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
   directions: Building C8, Level 3, Rooms 8.3.43C and 8.3.56
+  contact_links:
+    - icon: instagram
+      icon_pack: fab
+      name: Send us a DM
+      link: 'https://instagram.com/rnasysbiolab'
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
@@ -51,7 +56,9 @@ content:
   #     captcha: false
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Want to find out more about we do? Want to collaborate with us?
+Are you as much as an RNA geek as us?
+Interested in Francisco's cheesecake recipe? We'd love to hear from you!
