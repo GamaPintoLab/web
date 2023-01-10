@@ -20,8 +20,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - microRNA biogenesis and regulatory processes
-  - Computational Linguistics
-  - Information Retrieval
+  - Novel therapeutic stategies based on gene expression
+  - Host-pathogen interactions
 
 education:
   courses:
@@ -76,4 +76,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Bio goes here.
+I am a professor of Biochemistry at the Faculty of Sciences, University of Lisbon and a researcher at the RNA Systems Biology group (Gama & Pinto Lab) within the Gene Expression Regulation unit of the Biosystems and Integrated Sciences Institute (BioISI). My research interests focus on networks of biological molecules that regulate cellular processes. To understand the structure and function of these networks, in health and disease states, we use and develop mathematical and computational methods.

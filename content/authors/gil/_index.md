@@ -17,16 +17,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Computational Biology
+  - Gene Therapy and Personalized Medicine
   - Systems Biology
-  - Network Biology
+  - Epigenetics and Gene Expression
+  - Third-generation sequencing technologies
+  - Genomics and Transcriptomics
 
 education:
   courses:
-    - course: MSc in Biotechnology
+    - course: MSc, Biotechnology
       institution: NOVA School of Science and Technology, NOVA University Lisbon
       year: 2022
-    - course: BSc in Biology (Molecular Biology and Genetics, minor in Informatics)
+    - course: BSc, Biology (Molecular Biology and Genetics, minor in Informatics)
       institution: Faculty of Sciences, University of Lisbon
       year: 2019
 
@@ -74,4 +76,4 @@ user_groups:
   - Collaborators
 ---
 
-I am a professor of Biochemistry at the Faculty of Sciences, University of Lisbon and a researcher at the RNA Systems Biology group (Gama & Pinto Lab) within the Gene Expression Regulation unit of the Biosystems and Integrated Sciences Institute (BioISI). My research interests focus on networks of biological molecules that regulate cellular processes. To understand the structure and function of these networks, in health and disease states, we use and develop mathematical and computational methods.
+I'm a Molecular Systems Biologist currently based in Lisbon, Portugal collaborating at BioISI (Faculty of Sciences, University of Lisbon). I'm currently trying to deepen my knowledge of cutting-edge genomics approaches, such as RNA-Seq. I enjoy mixing together wet and computational approaches to gain a better understanding of complex biological systems, and discovering novel approaches for tackling grave diseases.

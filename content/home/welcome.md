@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   Welcome to the  
   RNA Systems Biology Lab
-hero_media: welcome.jpg
+hero_media: group.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -23,7 +23,11 @@ design:
 We're a cutting-edge RNA biology research lab at the University of Lisbon.
 We're glad to have you with us!
 
-<sub><sup>The RNA Systems Biology Lab is a research unit of [BioISI - Biosystems and Integrative Sciences Institute](https://bioisi.pt) at the [Faculty of Sciences](https://ciencias.ulisboa.pt/en) of the [University of Lisbon](https://ulisboa.pt/en).</sup></sub>
+<span class="tinyText">The RNA Systems Biology Lab is a research unit of [BioISI - Biosystems and Integrative Sciences Institute](https://bioisi.pt) at the [Faculty of Sciences](https://ciencias.ulisboa.pt/en) of the [University of Lisbon](https://ulisboa.pt/en).</span>
+
+<style>
+  .tinyText {font-size: .5em;}
+</style>
 
 [{{< icon name="github" pack="fab" >}}](https://github.com/GamaPintoLab)
 [{{< icon name="instagram" pack="fab" >}}](https://instagram.com/rnasysbiolab)

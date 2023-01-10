@@ -6,7 +6,7 @@ title: Tânia Marques
 superuser: false
 
 # Role/position
-role: Doctoral Student
+role: Doctoral Candidate
 
 # Organizations/Affiliations
 organizations:
