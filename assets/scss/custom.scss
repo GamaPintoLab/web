@@ -1,0 +1,38 @@
+// Custom CSS for RNA Systems Biology Lab Website
+
+.fct-div {
+    display: flex;
+  }
+  #fct {
+    height: 50px;
+  }
+
+.logosContainer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: grid;
+    place-items: center;
+    /* background-color: white; */
+  }
+
+
+
+.dark .light_only {
+    display: none;
+}
+
+body:not(.dark) .dark_only {
+    display: none;
+}
+
+
+.logos {
+    max-height: 100px;
+}
+
+/* @media (min-width: 767.98px) {
+  .logos {
+    max-height: 50px;
+  }
+} */
+  

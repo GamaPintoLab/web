@@ -13,8 +13,8 @@ main:
   - name: Projects
     url: project
     weight: 40
-  - name: Events
-    url: event
+  - name: Workshops
+    url: workshop
     weight: 50
   - name: Publications
     url: publication
@@ -22,3 +22,6 @@ main:
   - name: Contact
     url: contact
     weight: 70
+  - name: Donate
+    url: "#donate"
+    weight: 80

@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: qPCR training and data analysis
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -24,19 +24,19 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
+authors: [cruivinho]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Louis Reed via Unsplash**](https://unsplash.com/photos/pwcKF7L4-no)'
   focal_point: Right
 
-url_code: ''
+url_code: 'https://github.com/gamapintolab'
 url_pdf: ''
-url_slides: ''
+url_slides: '#'
 url_video: ''
 
 # Markdown Slides (optional).
@@ -54,10 +54,6 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+In this training, we will teach you the necessary skills to perform real-time PCR analyses independently for your studies.
 
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+<a href="#" class="btn btn-primary px-3 py-3">Sign up</a>

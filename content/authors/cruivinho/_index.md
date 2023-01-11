@@ -16,7 +16,7 @@ organizations:
     url: 'https://bioisi.pt'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on the regulation of HIV gene expression via small ncRNAs.
 
 interests:
   - Transcriptomics
@@ -59,7 +59,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

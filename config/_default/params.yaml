@@ -59,7 +59,7 @@ features:
   math:
     enable: true
   privacy_pack:
-    enable: true
+    enable: false
   avatar:
     gravatar: false
     shape: circle
