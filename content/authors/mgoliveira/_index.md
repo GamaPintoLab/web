@@ -14,7 +14,7 @@ organizations:
     url: 'https://bioisi.pt'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include NGS and regulation of gene transcription.
 
 interests:
   - Gene Therapy and Personalized Medicine
