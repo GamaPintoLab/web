@@ -32,7 +32,7 @@ Believe it or not, there's a whole lot more to python than just programming. The
 
 
 ```python
-import
+import this
 ```
 
     The Zen of Python, by Tim Peters
