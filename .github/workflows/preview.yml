@@ -2,6 +2,7 @@ name: Website PR Preview on Surge
 
 on:
   pull_request:
+    types: [opened, synchronize, reopened, closed]
 
 jobs:
   build_preview:
