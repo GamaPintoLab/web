@@ -1,5 +1,14 @@
 ---
 title: Marina Garcia-Vaquero is the lab's newest doctor!
+subtitle: ""
+summary: ""
+authors: []
+tags: []
+categories: [news]
+date: 2023-01-16T18:26:38Z
+lastmod: 2023-01-16T18:26:38Z
+featured: false
+draft: false
 date: 2020-12-20
 image:
   focal_point: 'top'

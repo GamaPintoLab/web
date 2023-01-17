@@ -3,7 +3,7 @@
 
 title: "miRIAD"
 summary: "This project aims to characterise the mechanisms through which microRNAs and small non-coding RNAs act to regulate cellular processes focusing on Naïve CD4 T cell activation and viral replication - namely HIV - and to explore their potential use as a therapeutic co-adjuvant agents or targets."
-authors: [mgc]
+authors: [mhcarvalho, cfestima]
 tags: []
 categories: [HIV]
 date: 2022-11-14T13:49:23Z

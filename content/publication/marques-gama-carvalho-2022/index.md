@@ -32,7 +32,7 @@ projects: []
 publishDate: '2023-01-09T23:21:04.576278Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'microRNAs are small non-coding RNAs that play a key role in regulating gene expression. These molecules exert their function through sequence complementarity with microRNA responsive elements and are typically located in the 3′ untranslated region of mRNAs, negatively regulating expression. Even though the relevant role of miRNA-dependent regulation is broadly recognized, the principles governing their ability to lead to specific functional outcomes in distinct cell types are still not well understood. In recent years, an intriguing hypothesis proposed that miRNA-responsive elements act as communication links between different RNA species, making the investigation of microRNA function even more complex than previously thought. The competing endogenous RNA hypothesis suggests the presence of a new level of regulation, whereby a specific RNA transcript can indirectly influence the abundance of other transcripts by limiting the availability of a common miRNA, acting as a “molecular sponge”. Since this idea has been proposed, several studies have tried to pinpoint the interaction networks that have been established between different RNA species and whether they contribute to normal cell function and disease. The focus of this review is to highlight recent developments and achievements made towards the process of characterizing competing endogenous RNA networks and their role in cellular function.'
 publication: '*Biomolecules*'
 doi: 10.3390/biom12020332
 ---

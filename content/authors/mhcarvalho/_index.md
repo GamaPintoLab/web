@@ -16,7 +16,7 @@ organizations:
     url: 'https://bioisi.pt/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests focus on networks of biological molecules that regulate cellular processes.
 
 interests:
   - microRNA biogenesis and regulatory processes
@@ -68,7 +68,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
