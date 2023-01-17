@@ -24,10 +24,8 @@ jobs:
     - name: Setup base URL env var
       run: |
         export PRNUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH") 
-        echo BASEURL="https://rnasysbiolab-web-build_preview-pr-"$PRNUMBER".surge.sh/" >> $GITHUB_ENV
+        echo BASEURL="https://rnasysbiolab-web-build-preview-pr-"$PRNUMBER".surge.sh/" >> $GITHUB_ENV
 
-    - name: Report base URL env var
-      run: echo "${{ env.BASEURL }}" 
 
     - name: Build                                
       run: hugo --baseURL "${{ env.BASEURL }}"
@@ -43,7 +41,19 @@ jobs:
         teardown: true
         build: |
           echo Deploying to surge.sh
-    - name: Get the preview_url
-      run: echo "url => ${{ env.BASEURL }}"
+
+    - name: Write comment
+      uses: actions-cool/maintain-one-comment@v1.1.0
+      with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          body: |
+            ⚡️ Deploying PR Preview...
+            <img src="https://user-images.githubusercontent.com/507615/90240294-8d2abd00-de5b-11ea-8140-4840a0b2d571.gif" width="300" />
+            <!-- Sticky Pull Request Comment -->
+          body-include: '<!-- Sticky Pull Request Comment -->'
+
+    - name: Show the preview URL
+       run: echo "${{ env.BASEURL }}" 
+
 
 # Retrieved from: https://is.gd/Mgniy0
