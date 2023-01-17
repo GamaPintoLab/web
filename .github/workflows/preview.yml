@@ -42,7 +42,7 @@ jobs:
         teardown: true
         build: |
           echo Deploying to surge.sh
-      - name: Get the preview_url
-        run: echo "url => ${{ env.BASEURL }}"
+    - name: Get the preview_url
+      run: echo "url => ${{ env.BASEURL }}"
 
 # Retrieved from: https://is.gd/Mgniy0
