@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: mhcarvalho@ciencias.ulisboa.pt
+  email: rnasysbiolab@ciencias.ulisboa.pt
   phone: (+351) 217 500 000
   address:
     street: Faculdade de Ciências da Universidade de Lisboa, Campo Grande
