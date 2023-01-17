@@ -53,7 +53,7 @@ jobs:
           body-include: '<!-- Sticky Pull Request Comment -->'
 
     - name: Show the preview URL
-       run: echo "${{ env.BASEURL }}" 
+      run: echo "${{ env.BASEURL }}" 
 
 
 # Retrieved from: https://is.gd/Mgniy0
