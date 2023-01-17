@@ -24,7 +24,7 @@ jobs:
     - name: Setup base URL env var
       run: |
         export PRNUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH") 
-        echo BASEURL="https://rnasysbiolab-web-build-preview-pr-"$PRNUMBER".surge.sh/" >> $GITHUB_ENV
+        echo BASEURL="https://rnasysbiolab-web-build_preview-pr-"$PRNUMBER".surge.sh/" >> $GITHUB_ENV
 
 
     - name: Build                                
