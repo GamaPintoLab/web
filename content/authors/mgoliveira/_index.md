@@ -20,7 +20,7 @@ interests:
   - Gene Therapy and Personalized Medicine
   - Systems Biology
   - Epigenetics and Gene Expression
-  - Third-generation sequencing technologies
+  - Third-generation Sequencing Technologies
   - Genomics and Transcriptomics
 
 education:
