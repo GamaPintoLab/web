@@ -33,7 +33,7 @@ jobs:
       run: hugo --baseURL "${{ env.BASEURL }}"
 
     - name: Deploy                               
-      uses: afc163/surge-preview@v1
+      uses: afc163/surge-preview@main
       id: preview_step
       with:
         surge_token: ${{ secrets.SURGE_TOKEN }}
