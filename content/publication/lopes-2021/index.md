@@ -16,7 +16,7 @@ tags:
 - technique interdependency
 - variability
 categories: []
-date: '2021-01-01'
+date: '2021-04-01'
 lastmod: 2023-01-09T23:25:38Z
 featured: false
 draft: false
@@ -35,10 +35,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-09T23:25:38.204692Z'
+publishDate: '2023-02-02T15:25:15.739767Z'
 publication_types:
 - '2'
-abstract: (Peri)centromeric repetitive sequences and, more specifically, satellite
+abstract: <p>(Peri)centromeric repetitive sequences and, more specifically, satellite
   DNA (satDNA) sequences, constitute a major human genomic component. SatDNA sequences
   can vary on a large number of features, including nucleotide composition, complexity,
   and abundance. Several satDNA families have been identified and characterized in
@@ -51,7 +51,7 @@ abstract: (Peri)centromeric repetitive sequences and, more specifically, satelli
   representation of satDNA (peri)centromeric/acrocentric short arm sequences. Approaches
   combining multiple techniques have been successfully applied and seem to be the
   path to follow for generating integrated knowledge in the promising field of human
-  satDNA biology.
+  satDNA biology.</p>
 publication: '*International Journal of Molecular Sciences*'
 doi: 10.3390/ijms22094707
 ---
