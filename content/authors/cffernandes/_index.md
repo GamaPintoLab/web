@@ -19,13 +19,12 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Transcriptomics
   - Molecular Biology
   - Gene Regulation
 
 education:
   courses:
-    - course: MSc in Medical Biochemistry (Candidate)
+    - course: MSc in Medical Biochemistry
       institution: Faculty of Sciences, University of Lisbon
       year: 2023 (Expected)
     - course: BSc in Biomedical Sciences
@@ -39,13 +38,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:cffernandes@ciencias.ulisboa.pt'
+    link: 'mailto:cffernandes@fc.ul.pt'
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-6788-4312
   - icon: ciencia-vitae
     icon_pack: ai
     link: https://www.cienciavitae.pt/portal/931E-D521-2022
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/carolinaffernandes20/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,5 +66,5 @@ user_groups:
   - MSc Students
 ---
 
-Licenciada em Ciências Biomédicas e, atualmente, estudante de mestrado em Bioquímica Médica na FCUL. Durante o meu percurso académico integrei o núcleo de estudantes BioMedUBI e fui membro do “StartUp Research VII”, responsável pela organização de eventos científicos “Ciência ao Café” e de atividades com alunos de níveis de ensino inferiores.
-Considero-me ser proativa e com elevado sentido de responsabilidade e organização.
+
+
