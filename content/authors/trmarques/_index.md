@@ -77,7 +77,7 @@ user_groups:
   - Doctoral Candidates
 ---
 
-                                   « C0d1ng t0 dec0de the n0n-c0d1ng »
+                                     C0d1ng t0 dec0de the n0n-c0d1ng  
 
 
 I have a Bachelor’s degree in Biology and a Masters degree in Bioinformatics. Currently I am a PhD student in Systems Biology in the RNA Systems Biology Lab at the BioISI institute in the Faculty of Sciences of University of Lisbon, Portugal. My thesis work consists in studying the tissue-specific interactions between human microRNAs and their targets.
