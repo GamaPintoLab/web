@@ -42,10 +42,7 @@ social:
   - icon: orcid
     icon_pack: fab
     link: 
-  - icon: ciencia-vitae
-    icon_pack: ai
-    link: 
-    - icon: linkedin
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/raquelluta/
 # Link to a PDF of your resume/CV from the About widget.
