@@ -16,7 +16,7 @@ organizations:
     url: 'https://bioisi.pt/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Scientist and Mentor. Academic.
+bio: Scientist and Mentor. Everything RNA and transcriptomics.
 
 interests:
   - microRNA biogenesis and regulatory processes
