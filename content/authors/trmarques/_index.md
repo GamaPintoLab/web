@@ -73,4 +73,6 @@ user_groups:
   - Doctoral Candidates
 ---
 
-Your bio goes here.
+I have a Bachelor’s degree in Biology and a Masters degree in Bioinformatics. Currently I am a PhD student in Systems Biology in the RNA Systems Biology Lab at the BioISI institute in the Faculty of Sciences of University of Lisbon, Portugal. Before starting the PhD I worked as a Bioinformatics fellow at the RNA Systems Biology. 
+
+Besides science I also love photography and coffee. 
