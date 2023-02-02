@@ -76,12 +76,16 @@ highlight_name: true
 user_groups:
   - Doctoral Candidates
 ---
-
+grep -A "Life Moto" subject1_details.txt
+Life Moto:
 C0d1ng t0 dec0de the n0n-c0d1ng  
 
-
+grep -A "Bio" subject1_details.txt
+Bio:
 I have a Bachelor’s degree in Biology and a Masters degree in Bioinformatics. Currently I am a PhD student in Systems Biology in the RNA Systems Biology Lab at the BioISI institute in the Faculty of Sciences of University of Lisbon, Portugal. My thesis work consists in studying the tissue-specific interactions between human microRNAs and their targets.
 
+grep -A "Hobbies" subject1_detail.txt
+Hobbies:
 Besides science I also love photography and coffee. 
 
 
