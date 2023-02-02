@@ -77,6 +77,10 @@ user_groups:
   - Doctoral Candidates
 ---
 
-I have a Bachelor’s degree in Biology and a Masters degree in Bioinformatics. Currently I am a PhD student in Systems Biology in the RNA Systems Biology Lab at the BioISI institute in the Faculty of Sciences of University of Lisbon, Portugal. My work consists in studying the tissue-specific interactions between human microRNAs and their targets.
+I have a Bachelor’s degree in Biology and a Masters degree in Bioinformatics. Currently I am a PhD student in Systems Biology in the RNA Systems Biology Lab at the BioISI institute in the Faculty of Sciences of University of Lisbon, Portugal. My thesis work consists in studying the tissue-specific interactions between human microRNAs and their targets.
 
 Besides science I also love photography and coffee. 
+
+Moto: C0d1ng t0 dec0de the n0n-c0d1ng
+
+That's what I do, I code and I solve things. 
