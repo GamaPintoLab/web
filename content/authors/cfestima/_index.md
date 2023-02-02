@@ -69,8 +69,8 @@ user_groups:
   - Doctoral Candidates
 ---
 
-Cláudia is currently studying the role of miR-34c-5p in the Immune System and its impact in HIV-1 infection. 
+Cláudia is currently pursuing the 3rd year of her PhD where she studies the role of miR-34c-5p in the Immune System and its impact in HIV-1 infection. Before starting her PhD Cláudia earned two research fellowships and was one of the founding team members of Ciências Covid Test Centre (CTC) during the covid-19 pandemic, that provided her with plenty of lab experience.
 She really likes to design and overplan her experiments to make the most challenging experimental setups look easypeasy. 
-During her free time she loves to play and watch football, wike with her dog and go to the beach. Cláudia is usually in a good mood. If not, just offer her food and you'll be safe.
+During her free time she loves to watch and play football, wike with her dog and go to the beach. Cláudia is usually in a good mood. If not, just offer her food and you'll be safe.
 Green flags: Knows where everything in the lab is, problem-solver, helps everyone, opens every stuck schott flasks.
 Red flags: Hides her dirty lab dishes, messy desk.
