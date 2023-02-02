@@ -81,6 +81,4 @@ I have a Bachelor’s degree in Biology and a Masters degree in Bioinformatics. 
 
 Besides science I also love photography and coffee. 
 
-Moto: C0d1ng t0 dec0de the n0n-c0d1ng
-
-That's what I do, I code and I solve things. 
+« C0d1ng t0 dec0de the n0n-c0d1ng »
