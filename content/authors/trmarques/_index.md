@@ -76,7 +76,7 @@ highlight_name: true
 user_groups:
   - Doctoral Candidates
 ---
-> grep "Life Moto" subject1_details.txt
+$ grep "Life Moto" subject1_details.txt
 
 Life Moto: C0d1ng t0 dec0de the n0n-c0d1ng  
 
