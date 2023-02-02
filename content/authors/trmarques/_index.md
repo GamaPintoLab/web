@@ -31,7 +31,7 @@ education:
       year: 2018 - now
     - course: MSc in Bioinformatics
       institution: University of Minho
-      year: 2019
+      year: 2015
     - course: BSc in Biology
       institution: University of Trás-os-Montes and Alto Douro
       year: 2013
@@ -61,9 +61,9 @@ social:
     link: https://github.com/tmmarques
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: files/cv.pdf
+  #- icon: cv
+   # icon_pack: ai
+   #link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
