@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: RNA Systems Biology # Website name
+title: RNA Systems Biology Lab # Website name
 baseURL: 'https://rnasysbio.rd.ciencias.ulisboa.pt/' # Website URL
 
 ############################
