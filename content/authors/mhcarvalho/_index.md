@@ -16,7 +16,7 @@ organizations:
     url: 'https://bioisi.pt/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on networks of biological molecules that regulate cellular processes.
+bio: Scientist and Mentor. Academic.
 
 interests:
   - microRNA biogenesis and regulatory processes
