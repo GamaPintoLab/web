@@ -6,7 +6,7 @@ title: Tânia Monteiro Marques
 superuser: false
 
 # Role/position
-role: Doctoral Candidate
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -16,21 +16,22 @@ organizations:
     url: 'https://bioisi.pt'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computational Biology, Network Biology and microRNAs. 
 
 interests:
   - Computational Biology
   - Systems Biology
   - Network Biology
+  - microRNAs
 
 education:
   courses:
     - course: PhD in Systems Biology
       institution: Faculty of Sciences, University of Lisbon
-      year: 2022
+      year: 2018 - now
     - course: MSc in Bioinformatics
       institution: University of Minho
-      year: 2019
+      year: 2015
     - course: BSc in Biology
       institution: University of Trás-os-Montes and Alto Douro
       year: 2013
@@ -40,6 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/t%C3%A2nia-marques-9678b0b4/'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:trmarques@ciencias.ulisboa.pt'
@@ -57,9 +61,9 @@ social:
     link: https://github.com/tmmarques
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  #- icon: cv
+   # icon_pack: ai
+   #link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -72,5 +76,16 @@ highlight_name: true
 user_groups:
   - Doctoral Candidates
 ---
+> {{< icon name="terminal" pack="fas" >}}  grep "Life Moto" subject1_details.txt
 
-Your bio goes here.
+Life Moto: C0d1ng t0 dec0de the n0n-c0d1ng  
+
+> {{< icon name="terminal" pack="fas" >}}  grep "Bio" subject1_details.txt
+
+Bio: I have a Bachelor’s degree in Biology and a Masters degree in Bioinformatics. Currently I am a PhD student in Systems Biology in the RNA Systems Biology Lab at the BioISI institute in the Faculty of Sciences of University of Lisbon, Portugal. My thesis work consists in studying the tissue-specific interactions between human microRNAs and their targets.
+
+> {{< icon name="terminal" pack="fas" >}}  grep "Hobbies" subject1_details.txt
+
+Hobbies: Besides science I also love photography and coffee. 
+
+
