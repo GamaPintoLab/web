@@ -27,13 +27,13 @@ education:
   courses:
     - course: MSc in Biochemistry and Biomedicine
       institution: Faculty of Sciences, University of Lisbon
-      year: 2021-2023
+      year: 2023
     - course: MSc in Biomedical Sciences
-      institution: University of Westminister
-      year: 2017-2018
+      institution: University of Westminister, London
+      year: 2018
     - course: BSc in Biology
       institution: Instituto Superior de Agronomia, University of Lisbon
-      year: 2013-2017
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
