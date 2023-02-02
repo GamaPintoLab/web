@@ -6,7 +6,7 @@ title: Tânia Monteiro Marques
 superuser: false
 
 # Role/position
-role: Doctoral Candidate
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -16,18 +16,19 @@ organizations:
     url: 'https://bioisi.pt'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computational Biology, Network Biology and microRNAs. 
 
 interests:
   - Computational Biology
   - Systems Biology
   - Network Biology
+  - microRNAs
 
 education:
   courses:
     - course: PhD in Systems Biology
       institution: Faculty of Sciences, University of Lisbon
-      year: 2022
+      year: 2018 - now
     - course: MSc in Bioinformatics
       institution: University of Minho
       year: 2019
@@ -40,6 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/t%C3%A2nia-marques-9678b0b4/'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:trmarques@ciencias.ulisboa.pt'
@@ -73,6 +77,6 @@ user_groups:
   - Doctoral Candidates
 ---
 
-I have a Bachelor’s degree in Biology and a Masters degree in Bioinformatics. Currently I am a PhD student in Systems Biology in the RNA Systems Biology Lab at the BioISI institute in the Faculty of Sciences of University of Lisbon, Portugal. Before starting the PhD I worked as a Bioinformatics fellow at the RNA Systems Biology. 
+I have a Bachelor’s degree in Biology and a Masters degree in Bioinformatics. Currently I am a PhD student in Systems Biology in the RNA Systems Biology Lab at the BioISI institute in the Faculty of Sciences of University of Lisbon, Portugal. My work consists in studying the tissue-specific interactions between human microRNAs and their targets.
 
 Besides science I also love photography and coffee. 
