@@ -19,10 +19,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Computational Biology
-  - Systems Biology
-  - Network Biology
-
+  - Molecular Biology
+  - Gene Regulation
+  - miRNAs
+  
 education:
   courses:
     - course: PhD, Biochemistry (candidate)
@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:cfestima@ciencias.ulisboa.pt'
+    link: 'mailto:cfestima@fc.ul.pt'
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-0383-8576
@@ -69,4 +69,8 @@ user_groups:
   - Doctoral Candidates
 ---
 
-Bio goes here.
+Cláudia is currently pursuing the 3rd year of her PhD where she studies the role of miR-34c-5p in the Immune System and its impact in HIV-1 infection. Before starting her PhD Cláudia earned two research fellowships and was one of the founding team members of Ciências Covid Test Centre (CTC) during the covid-19 pandemic, that provided her with plenty of lab experience.
+She really likes to design and overplan her experiments to make the most challenging experimental setups look easypeasy. 
+During her free time she loves to watch and play football, wike with her dog and go to the beach. Cláudia is usually in a good mood. If not, just offer her food and you'll be safe.
+Green flags: Knows where everything in the lab is, problem-solver, helps everyone, opens every stuck schott flasks.
+Red flags: Hides her dirty lab dishes, messy desk.
