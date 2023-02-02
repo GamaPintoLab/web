@@ -14,7 +14,7 @@ organizations:
     url: 'https://surrey.ac.uk'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests includes immunology and genetics.
 
 interests:
   - Transcriptomics
@@ -23,9 +23,9 @@ interests:
 
 # education:
 #   courses:
-#     - course: BSc in Biology (Molecular Biology and Genetics)
-#       institution: Faculty of Sciences, University of Lisbon
-#       year: 2016
+#     - course: BSc in Biomedical Science
+#       institution: Faculty of Biosciences and Medicine, University of Surrey
+#       year: 2020-
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,12 +38,12 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/EmanOthmanCV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'eo00459@surrey.ac.uk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
