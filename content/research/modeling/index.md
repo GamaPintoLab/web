@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Cancer Network Biology"
-summary: "This project aims to mine molecular interaction networks and ... ."
+title: "Dynamic Models of Biological Systems"
+summary: "This project aims to develop ... ."
 authors: [frpinto, jamiranda]
 tags: []
 categories: [Networks]

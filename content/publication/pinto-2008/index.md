@@ -1,12 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A confidence interval for the wallace coefficient of concordance and its application
-  to microbial typing methods
+title: Optimal control and analysis of two-color genomotyping experiments using bacterial
+  multistrain arrays
 subtitle: ''
 summary: ''
 authors:
 - F. R. Pinto
+- S. I. Aguiar
 - J. Melo-Cristino
 - M. Ramirez
 tags: []
@@ -30,27 +31,29 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-02T15:26:16.997195Z'
+publishDate: '2023-02-03T09:55:40.917635Z'
 publication_types:
 - '2'
-abstract: Very diverse research fields frequently deal with the analysis of multiple
-  clustering results, which should imply an objective detection of overlaps and divergences
-  between the formed groupings. The congruence between these multiple results can
-  be quantified by clustering comparison measures such as the Wallace coefficient
-  (W). Since the measured congruence is dependent on the particular sample taken from
-  the population, there is variability in the estimated values relatively to those
-  of the true population. In the present work we propose the use of a confidence interval
-  (CI) to account for this variability when W is used. The CI analytical formula is
-  derived assuming a Gaussian sampling distribution and recurring to the algebraic
-  relationship between W and the Simpson's index of diversity. This relationship also
-  allows the estimation of the expected Wallace value under the assumption of independence
-  of classifications. We evaluated the CI performance using simulated and published
-  microbial typing data sets. The simulations showed that the CI has the desired 95%
-  coverage when the W is greater than 0.5. This behaviour is robust to changes in
-  cluster number, cluster size distributions and sample size. The analysis of the
-  published data sets demonstrated the usefulness of the new CI by objectively validating
-  some of the previous interpretations, while showing that other conclusions lacked
-  statistical support. © 2008 Pinto et al.
-publication: '*PLoS ONE*'
-doi: 10.1371/journal.pone.0003696
+abstract: 'Background: Microarray comparative genomic hybridization (aCGH) evaluates
+  the distribution of genes of sequenced bacterial strains among unsequenced strains
+  of the same or related species. As genomic sequences from multiple strains of the
+  same species become available, multistrain microarrays are designed, containing
+  spots for every unique gene in all sequenced strains. To perform two-color aCGH
+  experiments with multistrain microarrays, the choice of control sample can be the
+  genomic DNA of one strain or a mixture of all the strains used in the array design.
+  This important problem has no universally accepted solution. Results: We performed
+  a comparative study of the two control sample options with a Streptococcus pneumoniae
+  microarray designed with three fully sequenced strains. We separately hybridized
+  two of these strains (R6 and G54) as test samples using the third strain alone (TIGR4)
+  or a mixture of the three strains as control. We show that for both types of control
+  it is advantageous to analyze spots in separate sets according to their expected
+  control channel signal (5-15% AUC increase). Following this analysis, the use of
+  a mix control leads to higher accuracies (5% increase). This enhanced performance
+  is due to gains in sensitivity (21% increase, p = 0.001) that compensate minor losses
+  in specificity (5% decrease, p = 0.014). Conclusion: The use of a single strain
+  control increases the error rate in genes that are part of the accessory genome,
+  where more variation across unsequenced strains is expected, further justifying
+  the use of the mix control. © 2008 Pinto et al; licensee BioMed Central Ltd.'
+publication: '*BMC Genomics*'
+doi: 10.1186/1471-2164-9-230
 ---
