@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Services
 
 # Listing view
 view: card

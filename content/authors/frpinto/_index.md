@@ -52,6 +52,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/frpinto
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Francisco-Pinto-19
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

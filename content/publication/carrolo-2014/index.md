@@ -1,0 +1,59 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Pherotype influences biofilm growth and recombination in Streptococcus pneumoniae
+subtitle: ''
+summary: ''
+authors:
+- M. Carrolo
+- F. R. Pinto
+- J. Melo-Cristino
+- M. Ramirez
+tags: []
+categories: []
+date: '2014-01-01'
+lastmod: 2023-02-02T15:20:21Z
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-02-02T15:26:13.496958Z'
+publication_types:
+- '2'
+abstract: In Streptococcus pneumoniae the competence-stimulating peptide (CSP), encoded
+  by the comC gene, controls competence development and influences biofilm growth.
+  We explored the influence of pherotype, defined by the two major comC allelic variants
+  (comC1 and comC2), on biofilm development and recombination efficiency. Among isolates
+  recovered from human infections those presenting comC1 show a higher capacity to
+  form in vitro biofilms. The influence of pherotype on biofilm growth was confirmed
+  by experiments with isogenic strains differing in their comC alleles. Biofilm architecture
+  evaluated by confocal laser scanning microscopy showed that strains carrying comC1
+  form biofilms that are denser and thicker than those carrying the comC2 allele.
+  Isogenic strains carrying the comC1 allele yielded more transformants than those
+  carrying the comC2 allele in both planktonic and biofilm growth. Transformation
+  assays with comC knockout strains show that ComD1 needs lower doses of the signaling
+  peptide to reach the same biological outcomes. In contrast to mixed planktonic growth,
+  within mixed biofilms inter-pherotype genetic exchange is less frequent than that
+  occurring between bacteria of the same pherotype. Since biofilms are a major bacterial
+  lifestyle, these observations may explain the genetic differentiation between populations
+  with different pherotypes reported previously. Considering that biofilms have been
+  associated with colonization our results suggest that strains carrying the comC1
+  allele may be more transmissible and more efficient at persisting in carriage. Both
+  effects may help explain the higher prevalence of the comC1 allele in the pneumococcal
+  population. © 2014 Carrolo et al.
+publication: '*PLoS ONE*'
+doi: 10.1371/journal.pone.0092138
+---
